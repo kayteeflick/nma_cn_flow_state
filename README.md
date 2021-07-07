@@ -1,2 +1,2 @@
-# nma_cn_steinmetz
-Analysis from Neuromatch Academy 2021 Computational Neuroscience to analze the Steinmetz 2019
+# nma_cn_flow_state
+Neuromatch Academy 2021 Computational Neuroscience analysis of Steinmetz 2019 data.
