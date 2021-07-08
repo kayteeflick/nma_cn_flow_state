@@ -1,12 +1,4 @@
-# 6.0002 Problem Set 2 Fall 2020
-# Graph Optimization
-# Name:
-# Collaborators:
-# Time:
-
-
 # This file contains a set of data structures to represent the graphs 
-# that you will be using for this pset.
 
 class Node():
     """Represents a node in the graph"""
