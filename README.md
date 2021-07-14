@@ -16,3 +16,15 @@ Project guidelines:
 
 4. formulating specific, mathematically defined hypotheses
   Mice make incorrect trials, and there must be some difference in the underlying structure. We believe we can find differences in the underlying structure and flow of information between brain areas based on task diffculty and correct, incorrec, and no go trials
+
+5. Selecting the toolkit
+  
+6. Planning / drafting the model
+
+7. Implementing the model
+
+8. Completing the model
+
+9. testing and evaluating the model
+
+10. publishing the model
